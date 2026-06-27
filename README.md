@@ -35,10 +35,14 @@ The application allows store administrators to create announcements from the Sho
 ## Project Flow
 
 Admin Dashboard
-→ MongoDB
-→ Shopify Metafield
-→ Theme Extension
-→ Storefront Banner
+      ↓
+MongoDB
+      ↓
+Shopify Metafield
+      ↓
+Theme App Extension
+      ↓
+Storefront Banner
 
 ---
 
@@ -48,7 +52,7 @@ Clone the repository:
 
 ```bash
 git clone <https://github.com/ritasahaa/shopify-announcement-app.git>
-cd announcement-app
+cd shopify-announcement-app
 ```
 
 Install dependencies:
@@ -99,6 +103,18 @@ npm run deploy
 
 ---
 
-## Author
 
+## Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+### MongoDB Atlas
+![MongoDB Record](./screenshots/mongodb-record.png)
+
+### Storefront Banner
+![Storefront Banner](./screenshots/storefront-banner.png)
+
+
+## Author
 Rita Kumari Sah
