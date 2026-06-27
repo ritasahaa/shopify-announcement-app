@@ -47,7 +47,7 @@ Admin Dashboard
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ritasahaa/shopify-announcement-app.git>
 cd announcement-app
 ```
 
