@@ -51,7 +51,7 @@ Storefront Banner
 Clone the repository:
 
 ```bash
-git clone <https://github.com/ritasahaa/shopify-announcement-app.git>
+git clone https://github.com/ritasahaa/shopify-announcement-app.git
 cd shopify-announcement-app
 ```
 
